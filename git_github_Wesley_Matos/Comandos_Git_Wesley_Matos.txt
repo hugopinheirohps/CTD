@@ -1,0 +1,11 @@
+Comandos git mais usados até o momento:
+
+1. git init // inicializa repositórios git
+2. git config --global user.name nomeUsuario // agrega seu nome ao repositório
+3. git config --global user.email nomeUsuario@email.com // agrega seu email ao repositório
+4. git remote add origin https://github.com/DH/RepoRemoto // aponta um repositório remoto
+5. git add . => Este comando atualiza o índice utilizando o conteúdo atual
+encontrado na árvore de trabalho para preparar o conteúdo para o próximo commit. 
+6. git commmit -m "mensagem" // Cria um novo commit que tenha todos os conteúdos
+atuais do índice e a mensagem informada no registro log descrevendo as alterações.
+O commit adiciona data + mensagem + autor na alteração.
