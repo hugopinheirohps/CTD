@@ -1,0 +1,30 @@
+*Comandos:
+
+-Comandos de Criação:
+
+  -git init -> cria novo repositorio local;
+  -git clone + URL(do repositorio) -> clona repositoro existente;
+  -git branch + (nome de uma nova branch) -> cria uma nova branch;
+
+-Comandos que "mostram":
+  
+  -git status -> ver o status do arquivo;
+
+-Comandos de sincronização remota:
+
+   -git remote add origin + URL(repositorio remoto)  -> linka o repositorio lcal ao remoto;
+   -git add . -> adiciona a fila demodificações;
+   -git commit -m " " -> permit colocar um comentario, esplicando as mudanças;
+   -git push/ git push origin (nome da branch) -> sobe as modificações para o repositorio remoto;
+   -git pull/ git pull origin (nome da branch) -> atualiza o repositorio local com as novas mudanças;
+
+-Comandos de navegação:
+
+   -git checkout (nome da branch) -> permite vc usar a branch que quiser;
+   -git merge (nome da branch) -> permite você mesclar uma branch a outra;
+
+-Comandos de Excluisão:
+
+   -git branch -d (nome da branch) -> apaga a branch no repositorio local;
+   git push origin --delete (nome da branch) -> apaga a branch no repositorio remoto;
+
