@@ -1,1 +1,3 @@
-Teste do arquivo 2.
+Teste do arquivo 2
+
+Teste da nova imagem
