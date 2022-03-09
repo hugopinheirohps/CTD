@@ -1,0 +1,7 @@
+$ git init - Para iniciar o controle de versão de todos os arquivos que existem na pasta do projeto
+$git status -Para saber em qual estágio estão os arquivos que existem na pasta.
+$git add -  Para selecionar os arquivos que fazem sentido para o comentário das alterações realizadas 
+(commits)
+git commit –m  - Para salvar e incluir uma descrição sobre as alterações realizadas.
+git pull - Para buscar alterações no repositório remoto e atualizar o repositório local.
+git push -Para enviar para o repositório remoto as alterações realizadas localmente.
