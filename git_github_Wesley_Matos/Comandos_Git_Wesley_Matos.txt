@@ -9,3 +9,4 @@ encontrado na árvore de trabalho para preparar o conteúdo para o próximo comm
 6. git commmit -m "mensagem" // Cria um novo commit que tenha todos os conteúdos
 atuais do índice e a mensagem informada no registro log descrevendo as alterações.
 O commit adiciona data + mensagem + autor na alteração.
+7. git push origin "branch" // envia atualizações para o repositório remoto.
